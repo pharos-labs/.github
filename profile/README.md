@@ -1,6 +1,6 @@
 # Welcome to Pharos Labs!
 
-![Pharos Controls](./pharos_logo.png)
+![Pharos Controls](./profile/pharos_logo.png)
 
 This is the home on Github for [Pharos Architectural Controls](https://www.pharoscontrols.com/).
 
